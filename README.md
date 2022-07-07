@@ -1,6 +1,3 @@
-### Hi there 👋
-
-
 ### Hi there 👋, I'm Magnus
 
 ![](https://komarev.com/ghpvc/?username=FLWhy)
